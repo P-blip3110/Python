@@ -1,0 +1,1 @@
+print(*range(70,81), sep = '\n')
